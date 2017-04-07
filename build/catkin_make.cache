@@ -1,2 +1,2 @@
-my_r2d2:r2d2_navigator
+keyboard_reader:mouse_reader:my_r2d2
 -DCATKIN_DEVEL_PREFIX=/home/tudeng/tianbao-robtech/devel -DCMAKE_INSTALL_PREFIX=/home/tudeng/tianbao-robtech/install -G Unix Makefiles

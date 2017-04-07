@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tudeng/tianbao-robtech/src/mouse_reader/include/mouse_reader/mouse_reader.h
+linux/input.h
+-
+string.h
+-
+map
+-
+vector
+-
+errno.h
+-
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+glob.h
+-
+sstream
+-
+
+/home/tudeng/tianbao-robtech/src/mouse_reader/src/mouse_reader.cpp
+mouse_reader/mouse_reader.h
+/home/tudeng/tianbao-robtech/src/mouse_reader/src/mouse_reader/mouse_reader.h
+iostream
+-
+
