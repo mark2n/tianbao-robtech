@@ -5,6 +5,6 @@
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
 SUBDIRS(gtest)
-SUBDIRS(keyboard_reader)
+SUBDIRS(my_turtle)
 SUBDIRS(mouse_reader)
 SUBDIRS(my_r2d2)
