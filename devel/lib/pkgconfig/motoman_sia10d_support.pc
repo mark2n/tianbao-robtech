@@ -1,0 +1,8 @@
+prefix=/home/tudeng/tianbao-robtech/devel
+
+Name: motoman_sia10d_support
+Description: Description of motoman_sia10d_support
+Version: 0.3.7
+Cflags: 
+Libs: -L/home/tudeng/tianbao-robtech/devel/lib 
+Requires: 

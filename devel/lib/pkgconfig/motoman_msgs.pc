@@ -1,0 +1,8 @@
+prefix=/home/tudeng/tianbao-robtech/devel
+
+Name: motoman_msgs
+Description: Description of motoman_msgs
+Version: 0.3.7
+Cflags: -I/home/tudeng/tianbao-robtech/devel/include
+Libs: -L/home/tudeng/tianbao-robtech/devel/lib 
+Requires: message_runtime std_msgs trajectory_msgs industrial_msgs genmsg

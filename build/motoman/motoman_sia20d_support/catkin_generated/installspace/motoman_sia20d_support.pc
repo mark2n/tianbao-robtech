@@ -1,0 +1,8 @@
+prefix=/home/tudeng/tianbao-robtech/install
+
+Name: motoman_sia20d_support
+Description: Description of motoman_sia20d_support
+Version: 0.3.7
+Cflags: 
+Libs: -L/home/tudeng/tianbao-robtech/install/lib 
+Requires: 

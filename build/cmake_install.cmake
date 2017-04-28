@@ -117,9 +117,22 @@ ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unsp
 IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   INCLUDE("/home/tudeng/tianbao-robtech/build/gtest/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman/cmake_install.cmake")
   INCLUDE("/home/tudeng/tianbao-robtech/build/my_turtle/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/planning_tutorial/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman_msgs/cmake_install.cmake")
   INCLUDE("/home/tudeng/tianbao-robtech/build/mouse_reader/cmake_install.cmake")
   INCLUDE("/home/tudeng/tianbao-robtech/build/my_r2d2/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman_mh5_support/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman_sda10f_support/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman_sia10d_support/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman_sia10f_support/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman_sia20d_support/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman_sia5d_support/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman_driver/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman_sda10f_moveit_config/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman/motoman_sia20d_moveit_config/cmake_install.cmake")
+  INCLUDE("/home/tudeng/tianbao-robtech/build/motoman_sia5d_moveit_config/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 
