@@ -1,0 +1,8 @@
+prefix=/home/tudeng/tianbao-robtech/devel
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.1.9
+Cflags: -I/home/tudeng/tianbao-robtech/devel/include
+Libs: -L/home/tudeng/tianbao-robtech/devel/lib 
+Requires: dynamic_reconfigure

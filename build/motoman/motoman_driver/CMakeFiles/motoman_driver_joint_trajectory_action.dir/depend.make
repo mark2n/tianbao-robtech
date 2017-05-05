@@ -99,6 +99,7 @@ motoman/motoman_driver/CMakeFiles/motoman_driver_joint_trajectory_action.dir/src
 motoman/motoman_driver/CMakeFiles/motoman_driver_joint_trajectory_action.dir/src/industrial_robot_client/joint_trajectory_action.cpp.o: /opt/ros/indigo/include/trajectory_msgs/JointTrajectory.h
 motoman/motoman_driver/CMakeFiles/motoman_driver_joint_trajectory_action.dir/src/industrial_robot_client/joint_trajectory_action.cpp.o: /opt/ros/indigo/include/trajectory_msgs/JointTrajectoryPoint.h
 motoman/motoman_driver/CMakeFiles/motoman_driver_joint_trajectory_action.dir/src/industrial_robot_client/joint_trajectory_action.cpp.o: /opt/ros/indigo/include/urdf/model.h
+motoman/motoman_driver/CMakeFiles/motoman_driver_joint_trajectory_action.dir/src/industrial_robot_client/joint_trajectory_action.cpp.o: /opt/ros/indigo/include/urdf/urdfdom_compatibility.h
 
 motoman/motoman_driver/CMakeFiles/motoman_driver_joint_trajectory_action.dir/src/joint_trajectory_action_node.cpp.o: /home/tudeng/tianbao-robtech/devel/include/motoman_msgs/DynamicJointPoint.h
 motoman/motoman_driver/CMakeFiles/motoman_driver_joint_trajectory_action.dir/src/joint_trajectory_action_node.cpp.o: /home/tudeng/tianbao-robtech/devel/include/motoman_msgs/DynamicJointTrajectory.h

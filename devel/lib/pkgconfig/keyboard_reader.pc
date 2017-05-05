@@ -1,8 +1,0 @@
-prefix=/home/tudeng/tianbao-robtech/devel
-
-Name: keyboard_reader
-Description: Description of keyboard_reader
-Version: 0.0.0
-Cflags: -I/home/tudeng/tianbao-robtech/devel/include
-Libs: -L/home/tudeng/tianbao-robtech/devel/lib 
-Requires: 

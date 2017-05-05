@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/tudeng/tianbao-robtech/src/dual_sia5_ur5.xacro
+  SRDF:
+    relative_path: config/dual_arm.srdf
+  CONFIG:
+    author_name: tb
+    author_email: tianbao.zhang@yahoo.com
+    generated_timestamp: 1493983360

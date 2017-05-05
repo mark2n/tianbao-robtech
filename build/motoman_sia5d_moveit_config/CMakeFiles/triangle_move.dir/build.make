@@ -139,13 +139,11 @@ triangle_move_EXTERNAL_OBJECTS =
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/libsrdfdom.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/libimage_transport.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/libmessage_filters.so
-/home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/x86_64-linux-gnu/libtinyxml.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/libclass_loader.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/libPocoFoundation.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/x86_64-linux-gnu/libdl.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/libroscpp.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/x86_64-linux-gnu/libboost_signals.so
-/home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/librosconsole.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/librosconsole_log4cxx.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/librosconsole_backend_interface.so
@@ -153,6 +151,11 @@ triangle_move_EXTERNAL_OBJECTS =
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/x86_64-linux-gnu/libboost_regex.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/libxmlrpcpp.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/libroslib.so
+/home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/librospack.so
+/home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/x86_64-linux-gnu/libpython2.7.so
+/home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
+/home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/x86_64-linux-gnu/libboost_program_options.so
+/home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/x86_64-linux-gnu/libtinyxml.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/libroscpp_serialization.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /opt/ros/indigo/lib/librostime.so
 /home/tudeng/tianbao-robtech/devel/lib/motoman_sia5d_moveit_config/triangle_move: /usr/lib/x86_64-linux-gnu/libboost_date_time.so

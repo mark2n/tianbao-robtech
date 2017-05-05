@@ -1,0 +1,8 @@
+prefix=/home/tudeng/tianbao-robtech/devel
+
+Name: dual_manipulator_support
+Description: Description of dual_manipulator_support
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/tudeng/tianbao-robtech/devel/lib 
+Requires: 

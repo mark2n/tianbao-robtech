@@ -150,48 +150,6 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_cpp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_cpp.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-moveit_msgs_generate_messages_cpp: motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_cpp.dir/rule
-.PHONY : moveit_msgs_generate_messages_cpp
-
-# fast build rule for target.
-moveit_msgs_generate_messages_cpp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_cpp.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_cpp.dir/build
-.PHONY : moveit_msgs_generate_messages_cpp/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_lisp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_lisp.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-moveit_msgs_generate_messages_lisp: motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_lisp.dir/rule
-.PHONY : moveit_msgs_generate_messages_lisp
-
-# fast build rule for target.
-moveit_msgs_generate_messages_lisp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_lisp.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_lisp.dir/build
-.PHONY : moveit_msgs_generate_messages_lisp/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_py.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_py.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-moveit_msgs_generate_messages_py: motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_py.dir/rule
-.PHONY : moveit_msgs_generate_messages_py
-
-# fast build rule for target.
-moveit_msgs_generate_messages_py/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_py.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/moveit_msgs_generate_messages_py.dir/build
-.PHONY : moveit_msgs_generate_messages_py/fast
-
-# Convenience name for target.
 motoman_sia5d_moveit_config/CMakeFiles/moveit_ros_manipulation_gencfg.dir/rule:
 	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/moveit_ros_manipulation_gencfg.dir/rule
 .PHONY : motoman_sia5d_moveit_config/CMakeFiles/moveit_ros_manipulation_gencfg.dir/rule
@@ -206,146 +164,6 @@ moveit_ros_manipulation_gencfg/fast:
 .PHONY : moveit_ros_manipulation_gencfg/fast
 
 # Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/moveit_ros_planning_gencfg.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/moveit_ros_planning_gencfg.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/moveit_ros_planning_gencfg.dir/rule
-
-# Convenience name for target.
-moveit_ros_planning_gencfg: motoman_sia5d_moveit_config/CMakeFiles/moveit_ros_planning_gencfg.dir/rule
-.PHONY : moveit_ros_planning_gencfg
-
-# fast build rule for target.
-moveit_ros_planning_gencfg/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/moveit_ros_planning_gencfg.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/moveit_ros_planning_gencfg.dir/build
-.PHONY : moveit_ros_planning_gencfg/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_cpp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_cpp.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-object_recognition_msgs_generate_messages_cpp: motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_cpp.dir/rule
-.PHONY : object_recognition_msgs_generate_messages_cpp
-
-# fast build rule for target.
-object_recognition_msgs_generate_messages_cpp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_cpp.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_cpp.dir/build
-.PHONY : object_recognition_msgs_generate_messages_cpp/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_lisp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_lisp.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-object_recognition_msgs_generate_messages_lisp: motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_lisp.dir/rule
-.PHONY : object_recognition_msgs_generate_messages_lisp
-
-# fast build rule for target.
-object_recognition_msgs_generate_messages_lisp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_lisp.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_lisp.dir/build
-.PHONY : object_recognition_msgs_generate_messages_lisp/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_py.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_py.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-object_recognition_msgs_generate_messages_py: motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_py.dir/rule
-.PHONY : object_recognition_msgs_generate_messages_py
-
-# fast build rule for target.
-object_recognition_msgs_generate_messages_py/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_py.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/object_recognition_msgs_generate_messages_py.dir/build
-.PHONY : object_recognition_msgs_generate_messages_py/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_cpp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_cpp.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-octomap_msgs_generate_messages_cpp: motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_cpp.dir/rule
-.PHONY : octomap_msgs_generate_messages_cpp
-
-# fast build rule for target.
-octomap_msgs_generate_messages_cpp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_cpp.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_cpp.dir/build
-.PHONY : octomap_msgs_generate_messages_cpp/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_lisp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_lisp.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-octomap_msgs_generate_messages_lisp: motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_lisp.dir/rule
-.PHONY : octomap_msgs_generate_messages_lisp
-
-# fast build rule for target.
-octomap_msgs_generate_messages_lisp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_lisp.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_lisp.dir/build
-.PHONY : octomap_msgs_generate_messages_lisp/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_py.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_py.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-octomap_msgs_generate_messages_py: motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_py.dir/rule
-.PHONY : octomap_msgs_generate_messages_py
-
-# fast build rule for target.
-octomap_msgs_generate_messages_py/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_py.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/octomap_msgs_generate_messages_py.dir/build
-.PHONY : octomap_msgs_generate_messages_py/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_cpp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_cpp.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-shape_msgs_generate_messages_cpp: motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_cpp.dir/rule
-.PHONY : shape_msgs_generate_messages_cpp
-
-# fast build rule for target.
-shape_msgs_generate_messages_cpp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_cpp.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_cpp.dir/build
-.PHONY : shape_msgs_generate_messages_cpp/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_lisp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_lisp.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-shape_msgs_generate_messages_lisp: motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_lisp.dir/rule
-.PHONY : shape_msgs_generate_messages_lisp
-
-# fast build rule for target.
-shape_msgs_generate_messages_lisp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_lisp.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_lisp.dir/build
-.PHONY : shape_msgs_generate_messages_lisp/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_py.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_py.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-shape_msgs_generate_messages_py: motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_py.dir/rule
-.PHONY : shape_msgs_generate_messages_py
-
-# fast build rule for target.
-shape_msgs_generate_messages_py/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_py.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/shape_msgs_generate_messages_py.dir/build
-.PHONY : shape_msgs_generate_messages_py/fast
-
-# Convenience name for target.
 motoman_sia5d_moveit_config/CMakeFiles/triangle_move.dir/rule:
 	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/triangle_move.dir/rule
 .PHONY : motoman_sia5d_moveit_config/CMakeFiles/triangle_move.dir/rule
@@ -358,48 +176,6 @@ triangle_move: motoman_sia5d_moveit_config/CMakeFiles/triangle_move.dir/rule
 triangle_move/fast:
 	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/triangle_move.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/triangle_move.dir/build
 .PHONY : triangle_move/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_cpp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_cpp.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-visualization_msgs_generate_messages_cpp: motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_cpp.dir/rule
-.PHONY : visualization_msgs_generate_messages_cpp
-
-# fast build rule for target.
-visualization_msgs_generate_messages_cpp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_cpp.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_cpp.dir/build
-.PHONY : visualization_msgs_generate_messages_cpp/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_lisp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_lisp.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-visualization_msgs_generate_messages_lisp: motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_lisp.dir/rule
-.PHONY : visualization_msgs_generate_messages_lisp
-
-# fast build rule for target.
-visualization_msgs_generate_messages_lisp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_lisp.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_lisp.dir/build
-.PHONY : visualization_msgs_generate_messages_lisp/fast
-
-# Convenience name for target.
-motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_py.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_py.dir/rule
-.PHONY : motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-visualization_msgs_generate_messages_py: motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_py.dir/rule
-.PHONY : visualization_msgs_generate_messages_py
-
-# fast build rule for target.
-visualization_msgs_generate_messages_py/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_py.dir/build.make motoman_sia5d_moveit_config/CMakeFiles/visualization_msgs_generate_messages_py.dir/build
-.PHONY : visualization_msgs_generate_messages_py/fast
 
 src/triangle_move.o: src/triangle_move.cpp.o
 .PHONY : src/triangle_move.o
@@ -436,26 +212,10 @@ help:
 	@echo "... install/local"
 	@echo "... install/strip"
 	@echo "... list_install_components"
-	@echo "... moveit_msgs_generate_messages_cpp"
-	@echo "... moveit_msgs_generate_messages_lisp"
-	@echo "... moveit_msgs_generate_messages_py"
 	@echo "... moveit_ros_manipulation_gencfg"
-	@echo "... moveit_ros_planning_gencfg"
-	@echo "... object_recognition_msgs_generate_messages_cpp"
-	@echo "... object_recognition_msgs_generate_messages_lisp"
-	@echo "... object_recognition_msgs_generate_messages_py"
-	@echo "... octomap_msgs_generate_messages_cpp"
-	@echo "... octomap_msgs_generate_messages_lisp"
-	@echo "... octomap_msgs_generate_messages_py"
 	@echo "... rebuild_cache"
-	@echo "... shape_msgs_generate_messages_cpp"
-	@echo "... shape_msgs_generate_messages_lisp"
-	@echo "... shape_msgs_generate_messages_py"
 	@echo "... test"
 	@echo "... triangle_move"
-	@echo "... visualization_msgs_generate_messages_cpp"
-	@echo "... visualization_msgs_generate_messages_lisp"
-	@echo "... visualization_msgs_generate_messages_py"
 	@echo "... src/triangle_move.o"
 	@echo "... src/triangle_move.i"
 	@echo "... src/triangle_move.s"
