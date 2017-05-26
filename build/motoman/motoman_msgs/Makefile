@@ -416,48 +416,6 @@ motoman_msgs_genpy/fast:
 .PHONY : motoman_msgs_genpy/fast
 
 # Convenience name for target.
-motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/rule
-.PHONY : motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-std_msgs_generate_messages_cpp: motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/rule
-.PHONY : std_msgs_generate_messages_cpp
-
-# fast build rule for target.
-std_msgs_generate_messages_cpp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/build
-.PHONY : std_msgs_generate_messages_cpp/fast
-
-# Convenience name for target.
-motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/rule
-.PHONY : motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-std_msgs_generate_messages_lisp: motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/rule
-.PHONY : std_msgs_generate_messages_lisp
-
-# fast build rule for target.
-std_msgs_generate_messages_lisp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/build
-.PHONY : std_msgs_generate_messages_lisp/fast
-
-# Convenience name for target.
-motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/rule
-.PHONY : motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-std_msgs_generate_messages_py: motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/rule
-.PHONY : std_msgs_generate_messages_py
-
-# fast build rule for target.
-std_msgs_generate_messages_py/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/build.make motoman/motoman_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/build
-.PHONY : std_msgs_generate_messages_py/fast
-
-# Convenience name for target.
 motoman/motoman_msgs/CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/rule:
 	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman/motoman_msgs/CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/rule
 .PHONY : motoman/motoman_msgs/CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/rule
@@ -530,9 +488,6 @@ help:
 	@echo "... motoman_msgs_genlisp"
 	@echo "... motoman_msgs_genpy"
 	@echo "... rebuild_cache"
-	@echo "... std_msgs_generate_messages_cpp"
-	@echo "... std_msgs_generate_messages_lisp"
-	@echo "... std_msgs_generate_messages_py"
 	@echo "... test"
 	@echo "... trajectory_msgs_generate_messages_cpp"
 	@echo "... trajectory_msgs_generate_messages_lisp"

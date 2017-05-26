@@ -402,20 +402,6 @@ motoman_simple_message_bswap/fast:
 .PHONY : motoman_simple_message_bswap/fast
 
 # Convenience name for target.
-motoman/motoman_driver/CMakeFiles/roslint.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman/motoman_driver/CMakeFiles/roslint.dir/rule
-.PHONY : motoman/motoman_driver/CMakeFiles/roslint.dir/rule
-
-# Convenience name for target.
-roslint: motoman/motoman_driver/CMakeFiles/roslint.dir/rule
-.PHONY : roslint
-
-# fast build rule for target.
-roslint/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman/motoman_driver/CMakeFiles/roslint.dir/build.make motoman/motoman_driver/CMakeFiles/roslint.dir/build
-.PHONY : roslint/fast
-
-# Convenience name for target.
 motoman/motoman_driver/CMakeFiles/roslint_motoman_driver.dir/rule:
 	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman/motoman_driver/CMakeFiles/roslint_motoman_driver.dir/rule
 .PHONY : motoman/motoman_driver/CMakeFiles/roslint_motoman_driver.dir/rule
@@ -428,48 +414,6 @@ roslint_motoman_driver: motoman/motoman_driver/CMakeFiles/roslint_motoman_driver
 roslint_motoman_driver/fast:
 	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman/motoman_driver/CMakeFiles/roslint_motoman_driver.dir/build.make motoman/motoman_driver/CMakeFiles/roslint_motoman_driver.dir/build
 .PHONY : roslint_motoman_driver/fast
-
-# Convenience name for target.
-motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
-.PHONY : motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_cpp: motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
-.PHONY : sensor_msgs_generate_messages_cpp
-
-# fast build rule for target.
-sensor_msgs_generate_messages_cpp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
-.PHONY : sensor_msgs_generate_messages_cpp/fast
-
-# Convenience name for target.
-motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
-.PHONY : motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_lisp: motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
-.PHONY : sensor_msgs_generate_messages_lisp
-
-# fast build rule for target.
-sensor_msgs_generate_messages_lisp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
-.PHONY : sensor_msgs_generate_messages_lisp/fast
-
-# Convenience name for target.
-motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
-.PHONY : motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_py: motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
-.PHONY : sensor_msgs_generate_messages_py
-
-# fast build rule for target.
-sensor_msgs_generate_messages_py/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make motoman/motoman_driver/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
-.PHONY : sensor_msgs_generate_messages_py/fast
 
 # Convenience name for target.
 motoman/motoman_driver/CMakeFiles/std_srvs_generate_messages_cpp.dir/rule:
@@ -1320,11 +1264,7 @@ help:
 	@echo "... motoman_simple_message"
 	@echo "... motoman_simple_message_bswap"
 	@echo "... rebuild_cache"
-	@echo "... roslint"
 	@echo "... roslint_motoman_driver"
-	@echo "... sensor_msgs_generate_messages_cpp"
-	@echo "... sensor_msgs_generate_messages_lisp"
-	@echo "... sensor_msgs_generate_messages_py"
 	@echo "... std_srvs_generate_messages_cpp"
 	@echo "... std_srvs_generate_messages_lisp"
 	@echo "... std_srvs_generate_messages_py"

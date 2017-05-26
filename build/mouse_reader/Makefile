@@ -289,90 +289,6 @@ mouse_reader_genpy/fast:
 	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f mouse_reader/CMakeFiles/mouse_reader_genpy.dir/build.make mouse_reader/CMakeFiles/mouse_reader_genpy.dir/build
 .PHONY : mouse_reader_genpy/fast
 
-# Convenience name for target.
-mouse_reader/CMakeFiles/roscpp_generate_messages_cpp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 mouse_reader/CMakeFiles/roscpp_generate_messages_cpp.dir/rule
-.PHONY : mouse_reader/CMakeFiles/roscpp_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-roscpp_generate_messages_cpp: mouse_reader/CMakeFiles/roscpp_generate_messages_cpp.dir/rule
-.PHONY : roscpp_generate_messages_cpp
-
-# fast build rule for target.
-roscpp_generate_messages_cpp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f mouse_reader/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make mouse_reader/CMakeFiles/roscpp_generate_messages_cpp.dir/build
-.PHONY : roscpp_generate_messages_cpp/fast
-
-# Convenience name for target.
-mouse_reader/CMakeFiles/roscpp_generate_messages_lisp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 mouse_reader/CMakeFiles/roscpp_generate_messages_lisp.dir/rule
-.PHONY : mouse_reader/CMakeFiles/roscpp_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-roscpp_generate_messages_lisp: mouse_reader/CMakeFiles/roscpp_generate_messages_lisp.dir/rule
-.PHONY : roscpp_generate_messages_lisp
-
-# fast build rule for target.
-roscpp_generate_messages_lisp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f mouse_reader/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make mouse_reader/CMakeFiles/roscpp_generate_messages_lisp.dir/build
-.PHONY : roscpp_generate_messages_lisp/fast
-
-# Convenience name for target.
-mouse_reader/CMakeFiles/roscpp_generate_messages_py.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 mouse_reader/CMakeFiles/roscpp_generate_messages_py.dir/rule
-.PHONY : mouse_reader/CMakeFiles/roscpp_generate_messages_py.dir/rule
-
-# Convenience name for target.
-roscpp_generate_messages_py: mouse_reader/CMakeFiles/roscpp_generate_messages_py.dir/rule
-.PHONY : roscpp_generate_messages_py
-
-# fast build rule for target.
-roscpp_generate_messages_py/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f mouse_reader/CMakeFiles/roscpp_generate_messages_py.dir/build.make mouse_reader/CMakeFiles/roscpp_generate_messages_py.dir/build
-.PHONY : roscpp_generate_messages_py/fast
-
-# Convenience name for target.
-mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule
-.PHONY : mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-rosgraph_msgs_generate_messages_cpp: mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule
-.PHONY : rosgraph_msgs_generate_messages_cpp
-
-# fast build rule for target.
-rosgraph_msgs_generate_messages_cpp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build
-.PHONY : rosgraph_msgs_generate_messages_cpp/fast
-
-# Convenience name for target.
-mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule
-.PHONY : mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-rosgraph_msgs_generate_messages_lisp: mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule
-.PHONY : rosgraph_msgs_generate_messages_lisp
-
-# fast build rule for target.
-rosgraph_msgs_generate_messages_lisp/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
-.PHONY : rosgraph_msgs_generate_messages_lisp/fast
-
-# Convenience name for target.
-mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f CMakeFiles/Makefile2 mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule
-.PHONY : mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-rosgraph_msgs_generate_messages_py: mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule
-.PHONY : rosgraph_msgs_generate_messages_py
-
-# fast build rule for target.
-rosgraph_msgs_generate_messages_py/fast:
-	cd /home/tudeng/tianbao-robtech/build && $(MAKE) -f mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make mouse_reader/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
-.PHONY : rosgraph_msgs_generate_messages_py/fast
-
 src/mouse_event_publisher.o: src/mouse_event_publisher.cpp.o
 .PHONY : src/mouse_event_publisher.o
 
@@ -443,12 +359,6 @@ help:
 	@echo "... mouse_reader_genlisp"
 	@echo "... mouse_reader_genpy"
 	@echo "... rebuild_cache"
-	@echo "... roscpp_generate_messages_cpp"
-	@echo "... roscpp_generate_messages_lisp"
-	@echo "... roscpp_generate_messages_py"
-	@echo "... rosgraph_msgs_generate_messages_cpp"
-	@echo "... rosgraph_msgs_generate_messages_lisp"
-	@echo "... rosgraph_msgs_generate_messages_py"
 	@echo "... test"
 	@echo "... src/mouse_event_publisher.o"
 	@echo "... src/mouse_event_publisher.i"

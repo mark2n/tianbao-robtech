@@ -5,6 +5,7 @@
 # it emulates the modifications of the setup script without recurring computations
 
 # new environment variables
+export HUSKY_MAG_CONFIG="/home/tudeng/tianbao-robtech/src/husky/husky_bringup/config/mag_config_default.yaml"
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/tudeng/tianbao-robtech/devel:$CMAKE_PREFIX_PATH"
